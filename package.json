@@ -1,0 +1,13 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "Nice package",
+  "main": "app.js",
+  "repository": "git@github.com:kris2485/Node_Watermark.git",
+  "author": "KJR",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
